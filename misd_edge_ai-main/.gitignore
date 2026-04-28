@@ -1,0 +1,5 @@
+.venv/
+*.Zone.Identifier
+lkm/.*.cmd
+lkm/.module-common.o
+rpi-kernel/
